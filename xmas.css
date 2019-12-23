@@ -1,0 +1,25 @@
+
+
+h1 {font-size: 3em;text-align: center;}
+h4 {font-size: 1.5em;}
+
+p {color: white;
+
+}
+
+body {color: white ;background: url(https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+font-family: Georgia, 'Times New Roman', Times, serif; font-size: 20px;text-align: center; line-height: 1.5
+;
+
+}
+#heading {text-decoration: overline;}
+
+a {color: white;font-weight: bold;}
+
+ol {text-align: left;}
+
+#reading {background: url(https://buddhify.com/wp-content/uploads/2018/07/iStock-689785084.jpg);background-size: cover;}
+
+.blackfont {color: rgb(94, 128, 155);background-color: white;font-size: 1.2em;}
+
+img {width: 25%;border: white solid 2px;}
