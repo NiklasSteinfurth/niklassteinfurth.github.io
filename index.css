@@ -1,1 +1,9 @@
-body {color: orange;}
+body {
+    color:red;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 20px}
+
+h1 {
+    margin-top:20% ;
+}    
